@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter project.
+A clone of ios App which was builed by some user to loot the Rich people.
 
 ## Getting Started
 
